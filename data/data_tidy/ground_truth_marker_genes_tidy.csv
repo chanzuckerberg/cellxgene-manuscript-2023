@@ -1,0 +1,1172 @@
+cl,tissue,gene
+CL:0000816,blood,cd19
+CL:0000816,blood,ighm
+CL:0000816,blood,ms4a1
+CL:0000816,blood,pax5
+CL:0000816,bone marrow,cd19
+CL:0000816,bone marrow,ighm
+CL:0000816,bone marrow,ms4a1
+CL:0000816,bone marrow,pax5
+CL:0000787,blood,cd19
+CL:0000787,blood,cd27
+CL:0000787,blood,cd82
+CL:0000787,blood,igha1
+CL:0000787,blood,ighg1
+CL:0000787,blood,ms4a1
+CL:0000787,blood,sell
+CL:0000787,bone marrow,cd19
+CL:0000787,bone marrow,cd27
+CL:0000787,bone marrow,cd82
+CL:0000787,bone marrow,igha1
+CL:0000787,bone marrow,ighg1
+CL:0000787,bone marrow,ms4a1
+CL:0000787,bone marrow,sell
+CL:0000788,blood,cd19
+CL:0000788,blood,cd40
+CL:0000788,blood,fcer2
+CL:0000788,blood,ighm
+CL:0000788,blood,ms4a1
+CL:0000788,blood,pax5
+CL:0000788,bone marrow,cd19
+CL:0000788,bone marrow,cd40
+CL:0000788,bone marrow,fcer2
+CL:0000788,bone marrow,ighm
+CL:0000788,bone marrow,ms4a1
+CL:0000788,bone marrow,pax5
+CL:0000788,lymph node,cd19
+CL:0000788,lymph node,fcer2
+CL:0000788,lymph node,hladra
+CL:0000788,lymph node,ighd
+CL:0000788,lymph node,ms4a1
+CL:0000788,lymph node,sell
+CL:0000818,blood,bcl7a
+CL:0000818,blood,cd24
+CL:0000818,blood,fcrla
+CL:0000818,blood,igll5
+CL:0000818,blood,sox4
+CL:0000818,blood,tcl1a
+CL:0001056,blood,axl
+CL:0001056,blood,cadm1
+CL:0001056,blood,cd163
+CL:0001056,blood,cd1c
+CL:0001056,blood,cd22
+CL:0001056,blood,cd36
+CL:0001056,blood,clec10a
+CL:0001056,blood,clec9a
+CL:0001056,blood,fcer1a
+CL:0001056,blood,fcgr2b
+CL:0001056,blood,gzmb
+CL:0001056,blood,hladpb1
+CL:0001056,blood,hladqa2
+CL:0001056,blood,jchain
+CL:0001056,blood,s100a8
+CL:0001056,blood,s100a9
+CL:0001056,blood,serpinf1
+CL:0001056,blood,siglec6
+CL:0001056,blood,xcr1
+CL:0001056,bone marrow,axl
+CL:0001056,bone marrow,cadm1
+CL:0001056,bone marrow,cd163
+CL:0001056,bone marrow,cd1c
+CL:0001056,bone marrow,cd22
+CL:0001056,bone marrow,cd36
+CL:0001056,bone marrow,clec10a
+CL:0001056,bone marrow,clec9a
+CL:0001056,bone marrow,fcer1a
+CL:0001056,bone marrow,fcgr2b
+CL:0001056,bone marrow,gzmb
+CL:0001056,bone marrow,hladpb1
+CL:0001056,bone marrow,hladqa2
+CL:0001056,bone marrow,jchain
+CL:0001056,bone marrow,s100a8
+CL:0001056,bone marrow,s100a9
+CL:0001056,bone marrow,serpinf1
+CL:0001056,bone marrow,siglec6
+CL:0001056,bone marrow,xcr1
+CL:0001056,kidney,apoe
+CL:0001056,kidney,cd1c
+CL:0001056,kidney,cd1e
+CL:0001056,kidney,fcer1a
+CL:0001056,kidney,hladra
+CL:0002394,lymph node,batf3
+CL:0002394,lymph node,cadm1
+CL:0002394,lymph node,clec9a
+CL:0002394,lymph node,ido1
+CL:0002394,lymph node,xcr1
+CL:0002399,blood,cd163
+CL:0002399,blood,cd1c
+CL:0002399,blood,cd36
+CL:0002399,blood,clec10a
+CL:0002399,blood,fcer1a
+CL:0002399,blood,fcgr2b
+CL:0002399,blood,hladpb1
+CL:0002399,blood,hladqa2
+CL:0002399,blood,s100a8
+CL:0002399,blood,s100a9
+CL:0001054,bone marrow,cd14
+CL:0001054,bone marrow,cst3
+CL:0001054,bone marrow,fcn1
+CL:0001054,bone marrow,s100a8
+CL:0001054,bone marrow,s100a9
+CL:0001054,bone marrow,vcan
+CL:0002396,blood,cxcl16
+CL:0002396,blood,fcgr3a
+CL:0002396,blood,hes4
+CL:0002396,blood,ifitm3
+CL:0002396,blood,lst1
+CL:0002396,blood,ms4a7
+CL:0000775,blood,fcn1
+CL:0000775,blood,itgam
+CL:0000775,blood,mmp9
+CL:0000775,blood,orm1
+CL:0000775,blood,pglyrp1
+CL:0000775,blood,s100a12
+CL:0000775,bone marrow,azu1
+CL:0000775,bone marrow,camp
+CL:0000775,bone marrow,ceacam8
+CL:0000775,bone marrow,ctsg
+CL:0000775,bone marrow,elane
+CL:0000775,bone marrow,fcn1
+CL:0000775,bone marrow,itgam
+CL:0000775,bone marrow,lcn2
+CL:0000775,bone marrow,ltf
+CL:0000775,bone marrow,mmp9
+CL:0000775,bone marrow,mpo
+CL:0000775,bone marrow,orm1
+CL:0000775,bone marrow,pglyrp1
+CL:0000775,bone marrow,prtn3
+CL:0000775,bone marrow,s100a12
+CL:0000775,bone marrow,stom
+CL:0000775,kidney,csf3r
+CL:0000775,kidney,fcgr3b
+CL:0000775,kidney,s100a8
+CL:0000775,kidney,s100a9
+CL:0000771,bone marrow,clc
+CL:0000771,bone marrow,cpa3
+CL:0000771,bone marrow,gata2
+CL:0000771,bone marrow,hdc
+CL:0000771,bone marrow,hpgds
+CL:0000771,bone marrow,il5ra
+CL:0000771,bone marrow,ms4a3
+CL:0000767,blood,clc
+CL:0000767,blood,cpa3
+CL:0000767,blood,gata2
+CL:0000767,blood,hdc
+CL:0000767,blood,il3ra
+CL:0000767,blood,il5ra
+CL:0000767,blood,ms4a3
+CL:0000767,bone marrow,clc
+CL:0000767,bone marrow,cpa3
+CL:0000767,bone marrow,gata2
+CL:0000767,bone marrow,hdc
+CL:0000767,bone marrow,il3ra
+CL:0000767,bone marrow,il5ra
+CL:0000767,bone marrow,ms4a3
+CL:0000895,bone marrow,aqp3
+CL:0000895,bone marrow,cd3d
+CL:0000895,bone marrow,cd40lg
+CL:0000895,bone marrow,il7r
+CL:0000895,bone marrow,ltb
+CL:0000895,bone marrow,trac
+CL:0000895,bone marrow,trat1
+CL:0000895,bone marrow,trbc1
+CL:0000897,bone marrow,anxa2
+CL:0000897,bone marrow,cd3d
+CL:0000897,bone marrow,crip1
+CL:0000897,bone marrow,ifi6
+CL:0000897,bone marrow,il2
+CL:0000897,bone marrow,il4r
+CL:0000897,bone marrow,lgals3
+CL:0000897,bone marrow,mal
+CL:0000897,bone marrow,nme1
+CL:0000897,bone marrow,odc1
+CL:0000897,bone marrow,pdzd8
+CL:0000897,bone marrow,psat1
+CL:0000897,bone marrow,pycr1
+CL:0000897,bone marrow,socs1
+CL:0000897,bone marrow,stat1
+CL:0000897,bone marrow,tnf
+CL:0000897,bone marrow,trac
+CL:0000900,blood,aqp3
+CL:0000900,blood,cd3d
+CL:0000900,blood,il7r
+CL:0000900,blood,trac
+CL:0000900,bone marrow,aqp3
+CL:0000900,bone marrow,cd3d
+CL:0000900,bone marrow,il7r
+CL:0000900,bone marrow,trac
+CL:0000900,lymph node,ccr7
+CL:0000900,lymph node,cd3d
+CL:0000900,lymph node,cd8a
+CL:0000900,lymph node,sell
+CL:0001050,blood,ccl3
+CL:0001050,blood,ccl4
+CL:0001050,blood,cd3d
+CL:0001050,blood,gzmb
+CL:0001050,blood,hopx
+CL:0001050,blood,trac
+CL:0001062,blood,ccl5
+CL:0001062,blood,cd3d
+CL:0001062,blood,gnly
+CL:0001062,blood,hopx
+CL:0001062,blood,ifit3
+CL:0001062,blood,klrd1
+CL:0001062,blood,nkg7
+CL:0001062,blood,prf1
+CL:0001062,blood,trac
+CL:0001062,bone marrow,ccl5
+CL:0001062,bone marrow,cd3d
+CL:0001062,bone marrow,gnly
+CL:0001062,bone marrow,hopx
+CL:0001062,bone marrow,ifit3
+CL:0001062,bone marrow,klrd1
+CL:0001062,bone marrow,nkg7
+CL:0001062,bone marrow,prf1
+CL:0001062,bone marrow,trac
+CL:0000814,bone marrow,clic3
+CL:0000814,bone marrow,cst7
+CL:0000814,bone marrow,fcgr3a
+CL:0000814,bone marrow,gzma
+CL:0000814,bone marrow,gzmb
+CL:0000814,bone marrow,gzmk
+CL:0000814,bone marrow,klrb1
+CL:0000814,bone marrow,prf1
+CL:0000814,bone marrow,trdc
+CL:0000814,bone marrow,xcl1
+CL:0000814,kidney,cd247
+CL:0000814,kidney,cd3g
+CL:0000814,kidney,cd96
+CL:0000814,kidney,gnly
+CL:0000814,kidney,gzma
+CL:0000814,kidney,nkg7
+CL:0000814,kidney,runx3
+CL:0000938,blood,clic3
+CL:0000938,blood,cst7
+CL:0000938,blood,gzmk
+CL:0000938,blood,klrb1
+CL:0000938,blood,trdc
+CL:0000938,blood,xcl1
+CL:0000938,bone marrow,clic3
+CL:0000938,bone marrow,cst7
+CL:0000938,bone marrow,gzmk
+CL:0000938,bone marrow,klrb1
+CL:0000938,bone marrow,trdc
+CL:0000938,bone marrow,xcl1
+CL:0000815,bone marrow,aqp3
+CL:0000815,bone marrow,ccr6
+CL:0000815,bone marrow,foxp3
+CL:0000815,bone marrow,il7r
+CL:0000815,bone marrow,ltb
+CL:0000815,bone marrow,tigit
+CL:0000815,bone marrow,tnfrsf25
+CL:0000815,bone marrow,tnfrsf4
+CL:0000815,bone marrow,trac
+CL:0000815,bone marrow,trat1
+CL:0000815,bone marrow,trbc1
+CL:0000815,immune system,cd3e
+CL:0000815,immune system,cd53
+CL:0000815,immune system,coro1a
+CL:0000815,immune system,ctla4
+CL:0000815,immune system,fank1
+CL:0000815,immune system,foxp3
+CL:0000815,immune system,il7r
+CL:0000815,immune system,ptprc
+CL:0000815,immune system,rtkn2
+CL:0000815,immune system,tnfrsf4
+CL:0000815,large intestine,cd19
+CL:0000815,large intestine,cd4
+CL:0000815,large intestine,cd79a
+CL:0000815,large intestine,foxp3
+CL:0000071,heart,acta2
+CL:0000071,heart,cdh5
+CL:0000071,heart,myh11
+CL:0000071,heart,pecam1
+CL:0000071,heart,tagln
+CL:0000071,heart,vwf
+CL:0000071,lymph node,cav1
+CL:0000071,lymph node,ccl14
+CL:0000071,lymph node,cd209
+CL:0000071,lymph node,cd300lg
+CL:0000071,lymph node,cd34
+CL:0000071,lymph node,cd74
+CL:0000071,lymph node,emcn
+CL:0000071,lymph node,esam
+CL:0000071,lymph node,hladpa1
+CL:0000071,lymph node,hladpb1
+CL:0000071,lymph node,hladra
+CL:0000071,lymph node,hladrb1
+CL:0000071,lymph node,icam1
+CL:0000071,lymph node,jam2
+CL:0000071,lymph node,marco
+CL:0000071,lymph node,plvap
+CL:0000071,lymph node,sparcl1
+CL:0000057,brain,abca8
+CL:0000057,brain,bmp5
+CL:0000057,brain,bmpr1b
+CL:0000057,brain,bnc2
+CL:0000057,brain,c7
+CL:0000057,brain,col15a1
+CL:0000057,brain,col1a2
+CL:0000057,brain,ebf2
+CL:0000057,brain,fbln2
+CL:0000057,brain,fmo2
+CL:0000057,brain,linc02147
+CL:0000057,brain,ltbp2
+CL:0000057,brain,ptgdr
+CL:0000057,brain,rp11354k42
+CL:0000057,brain,slc2a1
+CL:0000057,brain,slc5a5
+CL:0000057,brain,slc6a20
+CL:0000057,brain,tbx18
+CL:0000817,bone marrow,cd19
+CL:0000817,bone marrow,ighd
+CL:0000817,bone marrow,ighm
+CL:0000817,bone marrow,pax5
+CL:0000786,bone marrow,derl3
+CL:0000786,bone marrow,igha1
+CL:0000786,bone marrow,ighg1
+CL:0000786,bone marrow,igkc
+CL:0000786,bone marrow,mzb1
+CL:0000786,bone marrow,sdc1
+CL:0000786,bone marrow,sec11c
+CL:0000786,bone marrow,tnfrsf17
+CL:0000786,kidney,fcrl5
+CL:0000786,kidney,igkc
+CL:0000786,kidney,jchain
+CL:0000786,kidney,mzb1
+CL:0000786,lymph node,cd38
+CL:0000786,lymph node,irf4
+CL:0000786,lymph node,prdm1
+CL:0000786,lymph node,sdc1
+CL:0000826,bone marrow,dntt
+CL:0000826,bone marrow,mme
+CL:0000826,bone marrow,rag1
+CL:0000826,bone marrow,vpreb1
+CL:0000990,bone marrow,cadm1
+CL:0000990,bone marrow,cd1c
+CL:0000990,bone marrow,clec10a
+CL:0000990,bone marrow,clec9a
+CL:0000990,bone marrow,fcer1a
+CL:0000990,bone marrow,fcgr2b
+CL:0000990,bone marrow,hladpb1
+CL:0000990,bone marrow,hladqa2
+CL:0000990,bone marrow,xcr1
+CL:0000764,bone marrow,adipor1
+CL:0000764,bone marrow,alas2
+CL:0000764,bone marrow,apoc1
+CL:0000764,bone marrow,bpgm
+CL:0000764,bone marrow,cd36
+CL:0000764,bone marrow,dcaf12
+CL:0000764,bone marrow,epcam
+CL:0000764,bone marrow,gata1
+CL:0000764,bone marrow,hba2
+CL:0000764,bone marrow,hbb
+CL:0000764,bone marrow,hbg1
+CL:0000764,bone marrow,kcnh2
+CL:0000764,bone marrow,klf1
+CL:0000764,bone marrow,myc
+CL:0000764,bone marrow,prss57
+CL:0000764,bone marrow,rhag
+CL:0000764,bone marrow,rhce
+CL:0000764,bone marrow,spta1
+CL:0000764,bone marrow,tspo2
+CL:0000556,bone marrow,cavin2
+CL:0000556,bone marrow,clec1b
+CL:0000556,bone marrow,fcer1a
+CL:0000556,bone marrow,gata2
+CL:0000556,bone marrow,gp9
+CL:0000556,bone marrow,itga2b
+CL:0000556,bone marrow,lat
+CL:0000556,bone marrow,pdlim1
+CL:0000556,bone marrow,pf4
+CL:0000556,bone marrow,plek
+CL:0000556,bone marrow,ppbp
+CL:0000553,bone marrow,cavin2
+CL:0000553,bone marrow,fcer1a
+CL:0000553,bone marrow,gata2
+CL:0000553,bone marrow,pdlim1
+CL:0000553,bone marrow,plek
+CL:0000837,bone marrow,ada
+CL:0000837,bone marrow,avp
+CL:0000837,bone marrow,azu1
+CL:0000837,bone marrow,bcl11a
+CL:0000837,bone marrow,bex1
+CL:0000837,bone marrow,calr
+CL:0000837,bone marrow,cd200
+CL:0000837,bone marrow,cd34
+CL:0000837,bone marrow,clec11a
+CL:0000837,bone marrow,crhbp
+CL:0000837,bone marrow,ctnnbl1
+CL:0000837,bone marrow,cygb
+CL:0000837,bone marrow,cytl1
+CL:0000837,bone marrow,flt3
+CL:0000837,bone marrow,gata1
+CL:0000837,bone marrow,gata2
+CL:0000837,bone marrow,hlf
+CL:0000837,bone marrow,hpgds
+CL:0000837,bone marrow,il1b
+CL:0000837,bone marrow,il2rg
+CL:0000837,bone marrow,jchain
+CL:0000837,bone marrow,lat2
+CL:0000837,bone marrow,mest
+CL:0000837,bone marrow,mllt3
+CL:0000837,bone marrow,mpo
+CL:0000837,bone marrow,npr3
+CL:0000837,bone marrow,prdx1
+CL:0000837,bone marrow,prom1
+CL:0000837,bone marrow,prss57
+CL:0000837,bone marrow,serpinb1
+CL:0000837,bone marrow,sox4
+CL:0000837,bone marrow,spink2
+CL:0000837,bone marrow,syk
+CL:0000837,bone marrow,tespa1
+CL:0000837,bone marrow,umodl1
+CL:0000050,bone marrow,cd34
+CL:0000050,bone marrow,ctnnbl1
+CL:0000050,bone marrow,gata1
+CL:0000050,bone marrow,gata2
+CL:0000050,bone marrow,il1b
+CL:0000050,bone marrow,prss57
+CL:0000050,bone marrow,spink2
+CL:0000050,bone marrow,tespa1
+CL:0000051,bone marrow,ada
+CL:0000051,bone marrow,cd200
+CL:0000051,bone marrow,cygb
+CL:0000051,bone marrow,lat2
+CL:0000051,bone marrow,prdx1
+CL:0000051,bone marrow,umodl1
+CL:0000049,bone marrow,cytl1
+CL:0000049,bone marrow,gata2
+CL:0000049,bone marrow,hpgds
+CL:0000049,bone marrow,mest
+CL:0000049,bone marrow,serpinb1
+CL:0000557,bone marrow,azu1
+CL:0000557,bone marrow,calr
+CL:0000557,bone marrow,cd34
+CL:0000557,bone marrow,clec11a
+CL:0000557,bone marrow,mpo
+CL:0000037,bone marrow,avp
+CL:0000037,bone marrow,bex1
+CL:0000037,bone marrow,cd34
+CL:0000037,bone marrow,crhbp
+CL:0000037,bone marrow,hlf
+CL:0000037,bone marrow,mllt3
+CL:0000037,bone marrow,npr3
+CL:0000037,bone marrow,prom1
+CL:0000559,bone marrow,ccr2
+CL:0000559,bone marrow,cst3
+CL:0000559,bone marrow,cx3cr1
+CL:0000559,bone marrow,hladra
+CL:0000559,bone marrow,s100a4
+CL:0000559,bone marrow,s100a6
+CL:0002193,bone marrow,camp
+CL:0002193,bone marrow,ceacam8
+CL:0002193,bone marrow,lcn2
+CL:0002193,bone marrow,ltf
+CL:0002193,bone marrow,stom
+CL:0000836,bone marrow,azu1
+CL:0000836,bone marrow,ctsg
+CL:0000836,bone marrow,elane
+CL:0000836,bone marrow,mpo
+CL:0000836,bone marrow,prtn3
+CL:0000097,bone marrow,clc
+CL:0000097,bone marrow,cpa3
+CL:0000097,bone marrow,gata2
+CL:0000097,bone marrow,hdc
+CL:0000097,bone marrow,hpgds
+CL:0000097,bone marrow,il5ra
+CL:0000097,bone marrow,kit
+CL:0000097,bone marrow,ms4a3
+CL:0000097,bone marrow,tpsab1
+CL:0000097,lymph node,kit
+CL:0000097,lymph node,ms4a2
+CL:0000097,lymph node,tpsab1
+CL:0000097,lymph node,tpsb2
+CL:0000909,lymph node,cd3d
+CL:0000909,lymph node,cd8a
+CL:0000909,lymph node,cxcr6
+CL:0000909,lymph node,itga1
+CL:0000236,immune system,bank1
+CL:0000236,immune system,cd19
+CL:0000236,immune system,cd22
+CL:0000236,immune system,cd53
+CL:0000236,immune system,cd79a
+CL:0000236,immune system,coro1a
+CL:0000236,immune system,ms4a1
+CL:0000236,immune system,ptprc
+CL:0000236,kidney,cd79a
+CL:0000236,kidney,hladra
+CL:0000236,kidney,jchain
+CL:0000236,kidney,ms4a1
+CL:0000623,immune system,cd53
+CL:0000623,immune system,coro1a
+CL:0000623,immune system,eomes
+CL:0000623,immune system,klrd1
+CL:0000623,immune system,nkg7
+CL:0000623,immune system,ptprc
+CL:0000623,immune system,tbx21
+CL:0000623,kidney,gnly
+CL:0000623,kidney,gzma
+CL:0000623,kidney,nkg7
+CL:0000623,kidney,runx3
+CL:0000129,brain,aif1
+CL:0000129,brain,apbb1ip
+CL:0000129,brain,ccdc26
+CL:0000129,brain,cx3cr1
+CL:0000129,brain,dock8
+CL:0000129,brain,f13a1
+CL:0000129,brain,hif1aas3
+CL:0000129,brain,itgax
+CL:0000129,brain,linc00278
+CL:0000129,brain,linc02642
+CL:0000129,brain,linc02712
+CL:0000129,brain,lncarod
+CL:0000129,brain,mrc1
+CL:0000129,brain,olr1
+CL:0000129,brain,p2ry12
+CL:0000129,brain,scin
+CL:0000129,brain,srgn
+CL:0000129,brain,ttr
+CL:0002453,brain,apod
+CL:0002453,brain,linc01608
+CL:0002453,brain,mir3681hg
+CL:0002453,brain,mroh9
+CL:0002453,brain,olig1
+CL:0002453,brain,rp145c121
+CL:0002453,brain,rp11197h31
+CL:0002453,brain,rp4668e104
+CL:4023059,brain,ac0841492
+CL:4023059,brain,bcas1
+CL:4023059,brain,c1qtnf5
+CL:4023059,brain,cndp1
+CL:4023059,brain,ctd2545m38
+CL:4023059,brain,folr1
+CL:4023059,brain,gpr17
+CL:4023059,brain,linc01608
+CL:4023059,brain,mobp
+CL:4023059,brain,ntng1
+CL:4023059,brain,opalin
+CL:4023059,brain,prrx1
+CL:4023059,brain,rp1189n174
+CL:4023059,brain,slc5a11
+CL:4023059,brain,tf
+CL:0000128,brain,ac0841492
+CL:0000128,brain,anln
+CL:0000128,brain,carns1
+CL:0000128,brain,cercam
+CL:0000128,brain,cndp1
+CL:0000128,brain,cryab
+CL:0000128,brain,erbb4
+CL:0000128,brain,linc01608
+CL:0000128,brain,mobp
+CL:0000128,brain,opalin
+CL:0000128,brain,plp1
+CL:0000128,brain,ptcsc3
+CL:0000128,brain,rnase1
+CL:0000128,brain,rp1138b61
+CL:0000128,brain,slc5a11
+CL:0000128,brain,tf
+CL:0002605,brain,col5a3
+CL:0002605,brain,fgfr3
+CL:0002605,brain,id3
+CL:0002605,brain,linc00499
+CL:0002605,brain,linc01727
+CL:0000065,brain,ac0076821
+CL:0000065,brain,ac0187171
+CL:0000065,brain,adgrd2
+CL:0000065,brain,caps
+CL:0000065,brain,crip1
+CL:0000065,brain,dthd1
+CL:0000065,brain,fgfr3
+CL:0000065,brain,gramd2a
+CL:0000065,brain,mgc4859
+CL:0000065,brain,nts
+CL:0000065,brain,obi1as1
+CL:0000065,brain,or2b4p
+CL:0000065,brain,rp11624a42
+CL:0000065,brain,sgms2
+CL:0000065,brain,tnc
+CL:0000065,brain,trdn
+CL:0000065,brain,ttr
+CL:4023073,brain,abca4
+CL:4023073,brain,c1qtnf5
+CL:4023073,brain,crybg1
+CL:4023073,brain,folr1
+CL:4023073,brain,gpnmb
+CL:4023073,brain,hpd
+CL:4023073,brain,hs3st3a1
+CL:4023073,brain,otx2as1
+CL:4023073,brain,plp1
+CL:4023073,brain,pou2af1
+CL:4023073,brain,rp11690j151
+CL:4023073,brain,rp11729m201
+CL:4023073,brain,serpinf1
+CL:4023073,brain,st18
+CL:4023073,brain,trpv4
+CL:4023073,brain,ttr
+CL:4023012,brain,adra1a
+CL:4023012,brain,ae00066137
+CL:4023012,brain,cd200r1l
+CL:4023012,brain,cd36
+CL:4023012,brain,col9a1
+CL:4023012,brain,ctb57h201
+CL:4023012,brain,ctc340a152
+CL:4023012,brain,ctc535m152
+CL:4023012,brain,fer1l6as2
+CL:4023012,brain,fshr
+CL:4023012,brain,hmga2
+CL:4023012,brain,ifngas1
+CL:4023012,brain,linc02008
+CL:4023012,brain,myocd
+CL:4023012,brain,npsr1
+CL:4023012,brain,npsr1as1
+CL:4023012,brain,nxph2
+CL:4023012,brain,plpp3
+CL:4023012,brain,ptprt
+CL:4023012,brain,robo3
+CL:4023012,brain,ror1
+CL:4023012,brain,rp11286o11
+CL:4023012,brain,rp1134c152
+CL:4023012,brain,rp11354i132
+CL:4023012,brain,rp11421n83
+CL:4023012,brain,rp11511b72
+CL:4023012,brain,rp1166g151
+CL:4023012,brain,sgo1as1
+CL:4023012,brain,slc9c1
+CL:4023012,brain,tacr3
+CL:4023012,brain,trim22
+CL:4023009,brain,csn1s1
+CL:4023009,brain,ctb57h201
+CL:4023009,brain,linc00326
+CL:4023009,brain,linc00943
+CL:4023009,brain,linc02424
+CL:4023009,brain,lrp2
+CL:4023009,brain,rp11370k21
+CL:4023009,brain,rp4678d151
+CL:4023008,brain,ac0051501
+CL:4023008,brain,ac0112882
+CL:4023008,brain,ac0679591
+CL:4023008,brain,adamts16
+CL:4023008,brain,adamts17
+CL:4023008,brain,adamts3
+CL:4023008,brain,aj0069982
+CL:4023008,brain,alkal2
+CL:4023008,brain,ankrd20a11p
+CL:4023008,brain,atp10a
+CL:4023008,brain,carm1p1
+CL:4023008,brain,cbln2
+CL:4023008,brain,ccn4
+CL:4023008,brain,cmtm8
+CL:4023008,brain,col22a1
+CL:4023008,brain,col5a2
+CL:4023008,brain,ctb57h201
+CL:4023008,brain,ctc535m152
+CL:4023008,brain,ctd2050e211
+CL:4023008,brain,ctd2050e212
+CL:4023008,brain,ctd2058b242
+CL:4023008,brain,ctd2195h91
+CL:4023008,brain,cyp1b1as1
+CL:4023008,brain,fbxl21p
+CL:4023008,brain,glp2r
+CL:4023008,brain,hpse2
+CL:4023008,brain,lama2
+CL:4023008,brain,lamp5
+CL:4023008,brain,linc00326
+CL:4023008,brain,linc00343
+CL:4023008,brain,linc00507
+CL:4023008,brain,linc00508
+CL:4023008,brain,linc01331
+CL:4023008,brain,linc01378
+CL:4023008,brain,linc01500
+CL:4023008,brain,linc01821
+CL:4023008,brain,linc02055
+CL:4023008,brain,linc02196
+CL:4023008,brain,linc02237
+CL:4023008,brain,linc02263
+CL:4023008,brain,linc02296
+CL:4023008,brain,linc02306
+CL:4023008,brain,mcub
+CL:4023008,brain,npnt
+CL:4023008,brain,pdgfd
+CL:4023008,brain,pla2g4a
+CL:4023008,brain,postn
+CL:4023008,brain,pou6f2
+CL:4023008,brain,rorb
+CL:4023008,brain,rp11114g221
+CL:4023008,brain,rp11120l141
+CL:4023008,brain,rp11191l94
+CL:4023008,brain,rp11197k61
+CL:4023008,brain,rp11320l21
+CL:4023008,brain,rp11335e83
+CL:4023008,brain,rp11370k21
+CL:4023008,brain,rp11380p131
+CL:4023008,brain,rp11387p121
+CL:4023008,brain,rp11404h11
+CL:4023008,brain,rp11484i69
+CL:4023008,brain,rp11511b72
+CL:4023008,brain,rp11537p241
+CL:4023008,brain,rp11632b212
+CL:4023008,brain,rp1179e32
+CL:4023008,brain,rp1181f81
+CL:4023008,brain,rp4809f181
+CL:4023008,brain,sema3c
+CL:4023008,brain,sntg2
+CL:4023008,brain,stk32b
+CL:4023008,brain,tespa1
+CL:4023008,brain,themis
+CL:4023008,brain,trpc3
+CL:4023008,brain,trpc6
+CL:4023008,brain,ttc6
+CL:4023008,brain,vipr2
+CL:0000540,spinal cord,adarb2
+CL:0000540,spinal cord,asah2
+CL:0000540,spinal cord,calcb
+CL:0000540,spinal cord,capn8
+CL:0000540,spinal cord,cartpt
+CL:0000540,spinal cord,cbln1
+CL:0000540,spinal cord,cbln4
+CL:0000540,spinal cord,cck
+CL:0000540,spinal cord,cdh23
+CL:0000540,spinal cord,cdh7
+CL:0000540,spinal cord,cdh9
+CL:0000540,spinal cord,cdhr3
+CL:0000540,spinal cord,col6a2
+CL:0000540,spinal cord,foxp2
+CL:0000540,spinal cord,gabrb2
+CL:0000540,spinal cord,gad2
+CL:0000540,spinal cord,gas1rr
+CL:0000540,spinal cord,gata3
+CL:0000540,spinal cord,hmcn1
+CL:0000540,spinal cord,igf1
+CL:0000540,spinal cord,iqgap2
+CL:0000540,spinal cord,isl1
+CL:0000540,spinal cord,ism1
+CL:0000540,spinal cord,lef1
+CL:0000540,spinal cord,linc01197
+CL:0000540,spinal cord,lmo3
+CL:0000540,spinal cord,lmx1b
+CL:0000540,spinal cord,maf
+CL:0000540,spinal cord,mafa
+CL:0000540,spinal cord,myo10
+CL:0000540,spinal cord,nfatc1
+CL:0000540,spinal cord,nfix
+CL:0000540,spinal cord,nmu
+CL:0000540,spinal cord,nmur2
+CL:0000540,spinal cord,npy
+CL:0000540,spinal cord,nr2f1
+CL:0000540,spinal cord,nr2f2
+CL:0000540,spinal cord,nr4a2
+CL:0000540,spinal cord,nts
+CL:0000540,spinal cord,onecut2
+CL:0000540,spinal cord,p2ry1
+CL:0000540,spinal cord,pde11a
+CL:0000540,spinal cord,pdyn
+CL:0000540,spinal cord,penk
+CL:0000540,spinal cord,pou6f2
+CL:0000540,spinal cord,prdm8
+CL:0000540,spinal cord,prox1
+CL:0000540,spinal cord,reln
+CL:0000540,spinal cord,rnf220
+CL:0000540,spinal cord,rorb
+CL:0000540,spinal cord,samd3
+CL:0000540,spinal cord,satb2
+CL:0000540,spinal cord,sox5
+CL:0000540,spinal cord,stk32b
+CL:0000540,spinal cord,sulf1
+CL:0000540,spinal cord,tac1
+CL:0000540,spinal cord,tac3
+CL:0000540,spinal cord,tfap2b
+CL:0000540,spinal cord,zfhx3
+CL:0000402,brain,adamts9as2
+CL:0000402,brain,adgrg6
+CL:0000402,brain,arhgap6
+CL:0000402,brain,c1ql1
+CL:0000402,brain,ca2
+CL:0000402,brain,chst9
+CL:0000402,brain,cmtm8
+CL:0000402,brain,col15a1
+CL:0000402,brain,crh
+CL:0000402,brain,ctc806a221
+CL:0000402,brain,cxcl14
+CL:0000402,brain,ddr2
+CL:0000402,brain,eya4
+CL:0000402,brain,fbn2
+CL:0000402,brain,frem2
+CL:0000402,brain,grin2c
+CL:0000402,brain,ifi44
+CL:0000402,brain,ism1
+CL:0000402,brain,lamp5
+CL:0000402,brain,lrp2
+CL:0000402,brain,met
+CL:0000402,brain,nfiaas2
+CL:0000402,brain,nos1
+CL:0000402,brain,pdgfd
+CL:0000402,brain,prex2
+CL:0000402,brain,pthlh
+CL:0000402,brain,rp11238k62
+CL:0000402,brain,rp11563d101
+CL:0000402,brain,sfrp1
+CL:0000402,brain,tac1
+CL:0000402,brain,tacr1
+CL:0000402,brain,unc5b
+CL:4023064,brain,abi3bp
+CL:4023064,brain,ac1336801
+CL:4023064,brain,adam33
+CL:4023064,brain,adamts20
+CL:4023064,brain,aj0069953
+CL:4023064,brain,ca2
+CL:4023064,brain,ccn2
+CL:4023064,brain,chrm2
+CL:4023064,brain,chrna7
+CL:4023064,brain,cmtm8
+CL:4023064,brain,crh
+CL:4023064,brain,ctc367f41
+CL:4023064,brain,ctd2008l172
+CL:4023064,brain,cxcl14
+CL:4023064,brain,ddr2
+CL:4023064,brain,dock8
+CL:4023064,brain,ednra
+CL:4023064,brain,eya4
+CL:4023064,brain,flt1
+CL:4023064,brain,frem2
+CL:4023064,brain,hs3st3a1
+CL:4023064,brain,htr3a
+CL:4023064,brain,iqgap2
+CL:4023064,brain,lama3
+CL:4023064,brain,lypd6
+CL:4023064,brain,myh11
+CL:4023064,brain,ndnf
+CL:4023064,brain,nmbr
+CL:4023064,brain,npr3
+CL:4023064,brain,pcdh18
+CL:4023064,brain,penk
+CL:4023064,brain,ppp1r1c
+CL:4023064,brain,ror2
+CL:4023064,brain,rp135c212
+CL:4023064,brain,rp11197h31
+CL:4023064,brain,rxrg
+CL:4023064,brain,scgn
+CL:4023064,brain,sema3c
+CL:4023064,brain,sgo1as1
+CL:4023064,brain,svep1
+CL:4023064,brain,syt10
+CL:4023064,brain,tac3
+CL:4023064,brain,vip
+CL:4023064,brain,wif1
+CL:0000669,placenta,acta2
+CL:0000669,placenta,cspg4
+CL:0000669,placenta,des
+CL:0000669,placenta,pdgfrb
+CL:0000746,heart,fhl2
+CL:0000746,heart,myh7
+CL:0000746,heart,myl2
+CL:0000746,heart,myl4
+CL:0000746,heart,myl7
+CL:0000746,heart,nppa
+CL:0000746,heart,ttn
+CL:0000235,heart,c1qa
+CL:0000235,heart,cd14
+CL:0000235,heart,cd68
+CL:0000235,heart,folr2
+CL:0000235,lymph node,cd14
+CL:0000235,lymph node,cd4
+CL:0000235,lymph node,hladra
+CL:0000235,lymph node,itgax
+CL:0002573,heart,nrxn1
+CL:0002573,heart,nrxn3
+CL:0002573,heart,plp1
+CL:0002573,heart,sox10
+CL:0000653,kidney,clic5
+CL:0000653,kidney,nphs1
+CL:0000653,kidney,nphs2
+CL:0000653,kidney,ntng1
+CL:0000653,kidney,podxl
+CL:0000653,kidney,ptprq
+CL:1001285,kidney,adamts6
+CL:1001285,kidney,mctp1
+CL:1001285,kidney,palmd
+CL:1001285,kidney,serpine2
+CL:1001285,kidney,slc14a1
+CL:1001285,kidney,tm4sf1
+CL:1000452,kidney,aldh1a2
+CL:1000452,kidney,cfh
+CL:1000452,kidney,crb2
+CL:1000452,kidney,vcam1
+CL:1001005,kidney,aqp1
+CL:1001005,kidney,ehd3
+CL:1001005,kidney,emcn
+CL:1001005,kidney,flt1
+CL:1001005,kidney,hecw2
+CL:1001005,kidney,plat
+CL:4030009,kidney,prodh2
+CL:4030009,kidney,slc22a6
+CL:4030009,kidney,slc22a8
+CL:4030009,kidney,slc34a1
+CL:4030009,kidney,slc5a12
+CL:4030009,kidney,slc5a2
+CL:4030011,kidney,aqp1
+CL:4030011,kidney,mogat1
+CL:4030011,kidney,satb2
+CL:4030011,kidney,slc17a1
+CL:4030011,kidney,slc22a7
+CL:4030011,kidney,slc5a11
+CL:1001111,kidney,cdh1
+CL:1001111,kidney,cryab
+CL:1001111,kidney,satb2
+CL:1001111,kidney,slc44a5
+CL:1001111,kidney,spp1
+CL:1001111,kidney,vcam1
+CL:1001107,kidney,cdh1
+CL:1001107,kidney,clcnka
+CL:1001107,kidney,cldn3
+CL:1001107,kidney,cryab
+CL:1001107,kidney,prox1
+CL:1001107,kidney,sh3gl3
+CL:1001107,kidney,tacstd2
+CL:1001106,kidney,atp1a1
+CL:1001106,kidney,casr
+CL:1001106,kidney,cdh1
+CL:1001106,kidney,slc12a1
+CL:1001106,kidney,umod
+CL:1000849,kidney,atp1a1
+CL:1000849,kidney,calb1
+CL:1000849,kidney,cdh1
+CL:1000849,kidney,sall3
+CL:1000849,kidney,slc12a3
+CL:1000849,kidney,trpm6
+CL:1000768,kidney,calb1
+CL:1000768,kidney,cdh1
+CL:1000768,kidney,gata3
+CL:1000768,kidney,hsd11b2
+CL:1000768,kidney,scn2a
+CL:1000768,kidney,scnn1g
+CL:1000768,kidney,slc8a1
+CL:1000768,kidney,trpv5
+CL:4030018,kidney,aqp2
+CL:4030018,kidney,aqp3
+CL:4030018,kidney,fxyd4
+CL:4030018,kidney,scnn1g
+CL:1001431,kidney,aqp2
+CL:1001431,kidney,aqp3
+CL:1001431,kidney,fxyd4
+CL:1001431,kidney,gata3
+CL:1001431,kidney,scnn1g
+CL:1001131,kidney,dnase1l3
+CL:1001131,kidney,gpm6a
+CL:1001131,kidney,nr2f2
+CL:1001131,kidney,plvap
+CL:0002138,lymph node,ackr4
+CL:0002138,lymph node,cav1
+CL:0002138,lymph node,cd209
+CL:0002138,lymph node,clec4g
+CL:0002138,lymph node,clec4m
+CL:0002138,lymph node,lyve1
+CL:0002138,lymph node,marco
+CL:0002138,lymph node,nt5e
+CL:0002138,lymph node,nudt4
+CL:1001318,kidney,acta2
+CL:1001318,kidney,adcy3
+CL:1001318,kidney,ccdc102b
+CL:1001318,kidney,mcam
+CL:1001318,kidney,myh11
+CL:1001318,kidney,ntrk3
+CL:1001318,kidney,tagln
+CL:1000692,kidney,c7
+CL:1000692,kidney,col1a1
+CL:1000692,kidney,col1a2
+CL:1000692,kidney,dcn
+CL:1000692,kidney,lum
+CL:1000692,kidney,zeb2
+CL:0000875,kidney,fcgr3a
+CL:0000875,kidney,hladra
+CL:0000875,kidney,itgal
+CL:0000875,kidney,lilrb2
+CL:1000597,kidney,gpx2
+CL:1000597,kidney,krt5
+CL:1000597,kidney,tacstd2
+CL:1000597,kidney,tp63
+CL:0009016,large intestine,cd44
+CL:0009016,large intestine,lgr5
+CL:0009016,large intestine,lrig1
+CL:0009016,large intestine,rgmb
+CL:0009016,large intestine,smoc2
+CL:0009016,large intestine,sox9
+CL:0019032,large intestine,dclk1
+CL:0019032,large intestine,pou2f3
+CL:0019032,large intestine,ptgs1
+CL:0019032,large intestine,trpm5
+CL:0017000,respiratory system,ascl3
+CL:0017000,respiratory system,bsnd
+CL:0017000,respiratory system,cdh1
+CL:0017000,respiratory system,clcnkb
+CL:0017000,respiratory system,elf3
+CL:0017000,respiratory system,epcam
+CL:0017000,respiratory system,foxi1
+CL:0017000,respiratory system,fxyd3
+CL:0017000,respiratory system,tspan1
+CL:0000158,lung,cdh1
+CL:0000158,lung,cyp2f1
+CL:0000158,lung,elf3
+CL:0000158,lung,epcam
+CL:0000158,lung,fxyd3
+CL:0000158,lung,scgb1a1
+CL:0000158,lung,scgb3a2
+CL:0000158,lung,tspan1
+CL:0000158,respiratory system,cdh1
+CL:0000158,respiratory system,cyp2f1
+CL:0000158,respiratory system,elf3
+CL:0000158,respiratory system,epcam
+CL:0000158,respiratory system,fxyd3
+CL:0000158,respiratory system,scgb1a1
+CL:0000158,respiratory system,scgb3a2
+CL:0000158,respiratory system,tspan1
+CL:1000223,respiratory system,ascl1
+CL:1000223,respiratory system,calca
+CL:1000223,respiratory system,cdh1
+CL:1000223,respiratory system,chga
+CL:1000223,respiratory system,elf3
+CL:1000223,respiratory system,epcam
+CL:1000223,respiratory system,fxyd3
+CL:1000223,respiratory system,grp
+CL:0019003,respiratory system,agr2
+CL:0019003,respiratory system,cdh1
+CL:0019003,respiratory system,elf3
+CL:0019003,respiratory system,epcam
+CL:0019003,respiratory system,fxyd3
+CL:0019003,respiratory system,muc5ac
+CL:0019003,respiratory system,muc5b
+CL:0019003,respiratory system,spdef
+CL:0019003,respiratory system,tff2
+CL:0019003,respiratory system,tspan1
+CL:0019019,respiratory system,acta2
+CL:0019019,respiratory system,cnn1
+CL:0019019,respiratory system,col1a2
+CL:0019019,respiratory system,dcn
+CL:0019019,respiratory system,des
+CL:0019019,respiratory system,fam83d
+CL:0019019,respiratory system,lgr6
+CL:0019019,respiratory system,mfap4
+CL:0019019,respiratory system,myh11
+CL:0019019,respiratory system,pln
+CL:1000271,lung,cdh1
+CL:1000271,lung,dynlrb2
+CL:1000271,lung,elf3
+CL:1000271,lung,epcam
+CL:1000271,lung,foxj1
+CL:1000271,lung,fxyd3
+CL:1000271,lung,rsph1
+CL:1000271,lung,tspan1
+CL:1000271,lung,tubb4b
+CL:1000271,respiratory system,cdh1
+CL:1000271,respiratory system,dynlrb2
+CL:1000271,respiratory system,elf3
+CL:1000271,respiratory system,epcam
+CL:1000271,respiratory system,foxj1
+CL:1000271,respiratory system,fxyd3
+CL:1000271,respiratory system,rsph1
+CL:1000271,respiratory system,tspan1
+CL:1000271,respiratory system,tubb4b
+CL:0002063,lung,abca3
+CL:0002063,lung,bmp1
+CL:0002063,lung,cdh1
+CL:0002063,lung,elf3
+CL:0002063,lung,epcam
+CL:0002063,lung,fxyd3
+CL:0002063,lung,hopx
+CL:0002063,lung,lamp3
+CL:0002063,lung,mfsd2a
+CL:0002063,lung,sfta2
+CL:0002063,lung,sftpa2
+CL:0002063,lung,slc39a8
+CL:0002062,lung,ager
+CL:0002062,lung,aqp4
+CL:0002062,lung,cdh1
+CL:0002062,lung,clic5
+CL:0002062,lung,elf3
+CL:0002062,lung,epcam
+CL:0002062,lung,fxyd3
+CL:0002062,lung,gramd2a
+CL:0002062,lung,hopx
+CL:0002062,lung,rtkn2
+CL:0002062,lung,scel
+CL:0002062,lung,sfta2
+CL:0002062,lung,slc39a8
+CL:0009089,lung,col1a2
+CL:0009089,lung,cox4i2
+CL:0009089,lung,dcn
+CL:0009089,lung,higd1b
+CL:0009089,lung,lamc3
+CL:0009089,lung,pdgfrb
+CL:0009089,lung,trpc6
+CL:4028006,lung,col1a2
+CL:4028006,lung,col6a3
+CL:4028006,lung,dclk1
+CL:4028006,lung,dcn
+CL:4028006,lung,fbln1
+CL:4028006,lung,lum
+CL:4028006,lung,mfap4
+CL:4028006,lung,mfap5
+CL:4028006,lung,scara5
+CL:4028004,lung,col1a2
+CL:4028004,lung,col6a3
+CL:4028004,lung,dcn
+CL:4028004,lung,fbln1
+CL:4028004,lung,fgfr4
+CL:4028004,lung,lum
+CL:4028004,lung,mfap4
+CL:4028004,lung,tcf21
+CL:4028004,lung,wnt2
+CL:0000784,immune system,cd53
+CL:0000784,immune system,clec4c
+CL:0000784,immune system,clec7a
+CL:0000784,immune system,coro1a
+CL:0000784,immune system,cxcr3
+CL:0000784,immune system,fcer1g
+CL:0000784,immune system,hladrb1
+CL:0000784,immune system,il3ra
+CL:0000784,immune system,nrp1
+CL:0000784,immune system,ptprc
+CL:0000186,small intestine,actg2
+CL:0000186,small intestine,cnn1
+CL:0000186,small intestine,des
+CL:0000186,small intestine,tp53i3
+CL:0000442,lymph node,cr2
+CL:0000442,lymph node,cxcl13
+CL:0000442,lymph node,madcam1
+CL:0000442,lymph node,mfge8
+CL:0000442,lymph node,vcam1
+CL:0000980,lymph node,cd38
+CL:0000980,lymph node,irf4
+CL:0000980,lymph node,prdm1
+CL:0000980,lymph node,sdc1
+CL:0000899,lymph node,ccr6
+CL:0000899,lymph node,cd3d
+CL:0000899,lymph node,id2
+CL:0000899,lymph node,il7r
+CL:0000798,lymph node,cd3d
+CL:0000798,lymph node,id2
+CL:0000798,lymph node,klrd1
+CL:0000798,lymph node,trdc
+CL:0008024,pancreas,arx
+CL:0008024,pancreas,hhex
+CL:0008024,pancreas,irx2
+CL:0008024,pancreas,mafa
+CL:0008024,pancreas,nkx61
+CL:0008024,pancreas,pdx1
+CL:0008036,placenta,cdh5
+CL:0008036,placenta,krt7
+CL:0008036,placenta,mcam
+CL:0008036,placenta,plac8
+CL:0000525,placenta,cgb3
+CL:0000525,placenta,csh1
+CL:0000525,placenta,egfr
+CL:0000525,placenta,krt7
+CL:0000525,placenta,psg4
+CL:0000584,small intestine,best4
+CL:0000584,small intestine,ca7
+CL:0000584,small intestine,hes1
+CL:0000584,small intestine,neurl1
+CL:0000034,small intestine,ascl2
+CL:0000034,small intestine,lgr5
+CL:0000034,small intestine,olfm4
+CL:0000034,small intestine,rnf43
