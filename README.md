@@ -8,8 +8,6 @@ Hundreds of millions of single cells have been analyzed to date using high throu
 
 ## Links & Resources
 
-Here is the table converted to a markdown list of links:
-
 - [CellxGene Schema](https://github.com/chanzuckerberg/single-cell-curation/tree/main/schema)
 - [CellxGene schema changelog](https://github.com/chanzuckerberg/single-cell-curation/blob/main/schema/3.1.0/schema.md#appendix-a-changelog)
 - [CellxGene data eligibility criteria and submission process](https://CellxGene.cziscience.com/docs/032__Contribute%20and%20Publish%20Data)
