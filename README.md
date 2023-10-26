@@ -15,5 +15,5 @@ Here is the table converted to a markdown list of links:
 - [CellxGene data eligibility criteria and submission process](https://CellxGene.cziscience.com/docs/032__Contribute%20and%20Publish%20Data)
 - [Gene Expression source data](https://CellxGene.cziscience.com/docs/04__Analyze%20Public%20Data/4_2__Gene%20Expression%20Documentation/4_2_6__Gene%20Expression%20Source%20Data)
 - [TileDB-SOMA](https://github.com/single-cell-data/TileDB-SOMA)
-- [Census Python API](https://chanzuckerberg.github.io/CellxGene-census/python-api.html)
-- [Census data and schema](https://chanzuckerberg.github.io/CellxGene-census/CellxGene_census_docsite_schema.html#data-included-in-the-census)
+- [Census Python API](https://chanzuckerberg.github.io/cellxgene-census/python-api.html)
+- [Census data and schema](https://chanzuckerberg.github.io/cellxgene-census/cellxgene_census_docsite_schema.html#data-included-in-the-census)
