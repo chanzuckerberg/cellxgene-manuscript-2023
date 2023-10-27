@@ -16,7 +16,8 @@ Hundreds of millions of single cells have been analyzed to date using high throu
 - [Census Python API](https://chanzuckerberg.github.io/cellxgene-census/python-api.html)
 - [Census data and schema](https://chanzuckerberg.github.io/cellxgene-census/cellxgene_census_docsite_schema.html#data-included-in-the-census)
 
-#### Notice
+## Code of Conduct
+This project adheres to the Contributor Covenant code of conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to opensource@chanzuckerberg.com.
 
-This project adheres to the Contributor Covenant Code of Conduct.
-All non-code content is licensed under CC0. 
+## Reporting Security Issues
+If you believe you have found a security issue, please responsibly disclose by contacting us at security@chanzuckerberg.com.
