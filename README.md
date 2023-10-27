@@ -15,3 +15,8 @@ Hundreds of millions of single cells have been analyzed to date using high throu
 - [TileDB-SOMA](https://github.com/single-cell-data/TileDB-SOMA)
 - [Census Python API](https://chanzuckerberg.github.io/cellxgene-census/python-api.html)
 - [Census data and schema](https://chanzuckerberg.github.io/cellxgene-census/cellxgene_census_docsite_schema.html#data-included-in-the-census)
+
+#### Notice
+
+This project adheres to the Contributor Covenant Code of Conduct.
+All non-code content is licensed under CC0. 
